@@ -1,5 +1,3 @@
-# FireHawks
-This is the initiated README for team FireHawks, Please edit this as you build your project
 # CombatBot
 The world has been hit and shook on account of the dangerous Corona Virus and nearly the total world is under lockdown so as to stop the spread of this coronavirus. The best way to forestall the infection is being at home and forestall going out at any expense.
 ![](https://github.com/palak-ag/CombatBot/blob/master/Components/virus.jpg)
@@ -72,7 +70,8 @@ LCD (Liquid Crystal Display) is a type of flat panel display which uses liquid c
 
 
 ![](https://github.com/palak-ag/CombatBot/blob/master/Components/lcd.jpg)
-![](https://github.com/palak-ag/CombatBot/blob/master/Components/i2cjpg)
+![](https://github.com/palak-ag/CombatBot/blob/master/Components/i2c.jpg)
+
 
 ### Metal Chassis
 The base of our bot on which every component is assembled. 
@@ -149,3 +148,4 @@ predetermined capacities.**
 
 ## TEAM: FireHawks
 ![](https://github.com/palak-ag/CombatBot/blob/master/Components/Firehawks.png)
+
